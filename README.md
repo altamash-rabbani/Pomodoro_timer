@@ -26,17 +26,16 @@ A simple, effective Pomodoro Timer built using **Python** and **Tkinter**. This 
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
+    git clone https://github.com/altamash-rabbani/Pomodoro_timer.git
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd YOUR_REPO_NAME
+    cd Pomodoro
     ```
 3.  **Run the application:**
     ```bash
-    python main.py
+    python pomodoro.py
     ```
-    *(Note: Replace `main.py` with the actual name of your python file if it is different)*
 
 ## 📂 Project Structure
 
