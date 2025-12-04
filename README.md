@@ -34,7 +34,7 @@ A simple, effective Pomodoro Timer built using **Python** and **Tkinter**. This 
     ```
 3.  **Run the application:**
     ```bash
-    python pomodoro.py
+    python Pomodono.py
     ```
 
 ## 📂 Project Structure
