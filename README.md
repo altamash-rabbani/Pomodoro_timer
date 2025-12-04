@@ -30,7 +30,7 @@ A simple, effective Pomodoro Timer built using **Python** and **Tkinter**. This 
     ```
 2.  **Navigate to the project directory:**
     ```bash
-    cd Pomodoro
+    cd Pomodoro_timer
     ```
 3.  **Run the application:**
     ```bash
